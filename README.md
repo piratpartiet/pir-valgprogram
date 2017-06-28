@@ -1,2 +1,2 @@
-# pir-valgprogram
-Valgprogrammet til Piratpartiet Norge
+# Valgprogram for Piratpartiet Norge
+Dette er de offisielle valgprogram-filene for Piratpartiet Norge.
