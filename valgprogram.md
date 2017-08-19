@@ -1,5 +1,18 @@
 # Valgprogram 2017–2021
 
+[//]: # (VPF-4)
+## Finans
+
+### Økonomisk politikk
+
+Piratpartiet vil
+
+* Arbeide for et moderne regelverk for Bitcoin og annen kryptovaluta
+* Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
+* Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer
+* Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
+
+
 [//]: # (VPF-1)
 ## Kommune og region
 
