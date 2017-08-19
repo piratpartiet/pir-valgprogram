@@ -38,6 +38,12 @@ Piratpartiet vil
 * Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
 [//]: # (VPF-4 slutt)
 
+[//]: # (VPF-9)
+### Borgerlønn
+
+Piratpartiet støtter en utredning av borgerlønn og andre mindre byråkratiske ordninger som en erstatning for dagens NAV-system.
+[//]: # (VPF-9 slutt)
+
 [//]: # (VPF-1)
 ## Kommune og region
 
