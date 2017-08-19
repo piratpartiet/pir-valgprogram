@@ -1,5 +1,17 @@
 # Valgprogram 2017–2021
 
+[//]: # (VPF-5)
+## IT og Internett
+
+### Digitalt personvern
+
+Piratpartiet vil
+* Forsvare retten til bruk av anonyme sosiale nettverk og kommunikasjonstjenester
+* Forsvare retten til bruk av kryptografi og privat peer-to-peer-kommunikasjon
+* Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
+* Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
+
+
 [//]: # (VPF-4)
 ## Finans
 
