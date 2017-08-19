@@ -44,6 +44,57 @@ Piratpartiet vil
 Piratpartiet støtter en utredning av borgerlønn og andre mindre byråkratiske ordninger som en erstatning for dagens NAV-system.
 [//]: # (VPF-9 slutt)
 
+[//]: # (VPF-10)
+
+## Næring og handel
+
+### Næringspolitikk
+
+Nettverksbygging og digitalisering gjør helt nye former for produksjon, arbeid og utveksling mulig. På dette fundamentet står Piratpartiet for en fri og sosial økonomisk orden, som har utvikling og velferd for alle mennesker som mål. Økonomisk vekst er ikke det eneste målet for menneskers livskvalitet.
+
+[//]: # (Trenger denne lista en redaksjonell finpuss, slik at alle punkta er fortsettelse av "Piratpartiet vil konkret"?)
+Piratpartiet vil konkret:
+
+* Piratpartiet vil tilrettelegge for nye innovative næringer basert på ny teknologi.
+* Piratpartiet ønsker at mennesker med gode ideer skal få støtte til å skape sine egne og andres arbeidsplasser gjennom gode støtteordninger for gründere.
+* Piratpartiet mener Innovasjon Norge er for byråkratisk og tunggrodd. Vi ønsker at gründere skal skape verdier, ikke fylle ut papirer og skjemaer.
+* Piratpartiet ønsker å sikre den frie konkurransen gjennom å motarbeide monopoler og karteller gjennom å gripe inn mot private og offentlige monopoler og motarbeide uheldig konsentrasjon av politisk og økonomisk makt.
+
+### Økologi
+
+Vi i Piratpartiet går inn for en bærekraftig omgang med naturressurser. Vi skal bidra til at dette potensialet utnyttes med hensyn til natur og kultur, slik at innovasjoner og arbeidsplasser oppstår over hele landet.
+
+Piratpartiet vil konkret:
+
+* Deler av det økonomiske utbyttet ved utnyttelse av naturressurser skal tilfalle samfunnet.
+* Matvarer hører hjemme på bordet, ikke i søppelkasser. Vi ønsker å skape en retningslinje som fører til at foretak i matvare-industrien og -detaljhandelen gjøre varer, som ikke egner seg til salg men fremdeles er spiselig, tilgjengelige for allmennheten.
+
+### Forbrukervern
+
+Vi i Piratpartiet ønsker at produsenter og tjenestetilbydere forplikter seg til å på en lett forståelig måte informere forbrukernen om sine produkter og hvordan disse fremstilles. Mulighetene som nye medier her tilbyr, burde ikke bare brukes til reklame, men derimot også til slik informasjon. Bare informerte forbrukere kan bestemme fritt hvordan de skal bruke pengene sine og dermed også utøve direkte påvirkning på tilbyderne.
+
+[//]: # (del av VPF-10 som bør flyttes til seksjonen Arbeid)
+### Minstelønn som overgangsteknologi
+
+Sosial dumping er til hinder for fri konkurranse under like vilkår og må bekjempes. For at alle mennesker skal kunne ha en verdig eksistens og kunne ta del i samfunnslivet, går vi inn for nasjonal minstelønn.
+
+På sikt vil vi imidlertid ønsker å etablere et system for allmenn inntektssikring som borgerlønn og/eller andre ubyråkratiske ordninger som et alternativ til NAV.
+
+### Medbestemmelse i bedrifter
+
+Arbeidsmiljøet er en vesentlig del av menneskers livsmiljø. Piratpartiet ønsker mer bedriftsdemokrati for ansatte og andre interessenter. Vi er positive til ansattes medeierskap og medbestemmelse i private virksomheter.
+
+### Fagorganisering
+
+Piratpartiet støtter den frie organisasjonsretten, men også retten til å være uorganisert.
+[//]: # (del av VPF-10 som bør flyttes til seksjonen Arbeid, slutt)
+
+### Globalisering
+
+Piratpartiet er for internasjonalt samarbeid mellom mennesker. Internett med sine ubegrensede muligheter blir her en viktig økonomisk faktor, som går langt utover nasjonal politikk. Globalisering skal tjene felles velferd for alle mennesker, og globalisering skal tjene mennesker ikke selskaper.
+
+[//]: # (VPF-10 slutt)
+
 [//]: # (VPF-1)
 ## Kommune og region
 
