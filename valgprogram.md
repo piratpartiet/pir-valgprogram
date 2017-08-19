@@ -10,7 +10,7 @@ Piratpartiet vil
 * Forsvare retten til bruk av kryptografi og privat peer-to-peer-kommunikasjon
 * Støtte opp om nye kryptografi­baserte løsninger som gir individet kontroll over sin egen sensitive informasjon og identitet
 * Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
-
+[//]: # (VPF-5 slutt)
 
 [//]: # (VPF-4)
 ## Finans
@@ -23,7 +23,7 @@ Piratpartiet vil
 * Identifisere og peke på hvordan norsk regelverk avviker fra land og stater som er verdensledende på kryptovaluta
 * Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer
 * Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
-
+[//]: # (VPF-4 slutt)
 
 [//]: # (VPF-1)
 ## Kommune og region
@@ -33,14 +33,17 @@ Piratpartiet mener at kommunesammenslåing skal være frivillig og støttet av i
 Piratpartiet overlater til hvert enkelt lokallag å anbefale sammenslåing og/eller arrangering av folkeavstemning om det. Argumentet for dette er at det er så mange lokale hensyn å ta at det er lite hensiktsmessig, og direkte vanskelig, å være kun for eller kun imot kommunesammenslåing uten at en ender opp med å overstyre viktige lokale hensyn.
 
 Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammenslåing. Faktorer som er relevante for vurdering av sammenslåing er lokale forhold som boligmarked, boligmønster, arbeidsmarked, eksisterende infrastruktur og behov for ny infrastruktur. Dette må samles som ett sammenslått hensyn som ses opp mot behovet for å bygge en kommuneadministrasjon og kommunaldrift som er stor nok til å gi et fullverdig kommunalt tilbud til alle kommunens innbyggere.
+[//]: # (VPF-1 slutt)
 
 [//]: # (VPF-3)
 ## Helse og omsorg
+[//]: # (VPF-3 slutt)
 
 [//]: # (VPF-6)
 ### Tilgang til medisin
 
 Vi anser universell tilgang til medisiner og medisinsk behandling som en menneskerett. 
+[//]: # (VPF-6 slutt)
 
 ### Ruspolitikk
 
@@ -50,11 +53,16 @@ Piratpartiet stiller seg positiv til å endre rusmiddelpolitikken fra justispoli
 ### Velferd og menneskerettigheter
 
 Piratpartiet slutter opp om anbefalingen til Europarådet og de nordiske barneombud sin felles uttalelse, og ønsker å arbeide for en kjønnsnøytral lovgivning, hvor omskjæring kun kan utføres hvis en person som har nådd den alder og modenhet som kreves for å forstå nødvendig medisinsk informasjon, velger å samtykke til inngrepet uten utilbørlig press.
+[//]: # (VPF-2 slutt)
 
-## Økonomi
+## Arbeid
+
+### Pensjon
 
 Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som er lik eller høyere enn prisøkningen i landet. Videre vil vi fjerne frafallet i bruttotrygd for uføre som gifter seg eller blir samboer, da poenget med å bo sammen er å spare utgifter for å øke kjøpekraften.
 
-## Idrett
+## Kultur
+
+### Idrett
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
