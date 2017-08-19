@@ -63,6 +63,14 @@ Piratpartiet vil sørge for at uføre og pensjonister har en inntektsøkning som
 
 ## Kultur
 
+[//]: # (VPF-7)
+### Opphavsrett
+
+Pirater ønsker en rettferdig og balansert opphavsrett.
+
+Samfunnet må sikre helhetlig åpenhet, rettferdige deltakerrettigheter for sine medlemmer og mer rettferdige avtalevilkår for kunstnere.
+[//]: # (VPF-7 slutt)
+
 ### Idrett
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
