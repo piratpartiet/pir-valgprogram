@@ -45,7 +45,6 @@ Piratpartiet støtter en utredning av borgerlønn og andre mindre byråkratiske 
 [//]: # (VPF-9 slutt)
 
 [//]: # (VPF-10)
-
 ## Næring og handel
 
 ### Næringspolitikk
@@ -92,8 +91,16 @@ Piratpartiet støtter den frie organisasjonsretten, men også retten til å vær
 ### Globalisering
 
 Piratpartiet er for internasjonalt samarbeid mellom mennesker. Internett med sine ubegrensede muligheter blir her en viktig økonomisk faktor, som går langt utover nasjonal politikk. Globalisering skal tjene felles velferd for alle mennesker, og globalisering skal tjene mennesker ikke selskaper.
-
 [//]: # (VPF-10 slutt)
+
+[//]: # (VPF-11)
+## Samferdsel og infrastruktur
+
+Den digitale revolusjonen i det offentlige rom er fullt i gang, og klimaendringene krever ny miljøvennlig mobilitet. Infrastrukturen i våre byer, tettsteder og bygder og måtene som vi reiser mellom disse på, vil endre seg stort i fremtiden. Piratpartiet ønsker å legge til rette for effektivisering av kollektivtransport og for selvstyrte, og med det også førerløse drosjer og minibusser.
+
+Noen arealer som i dag brukes til trafikk ønsker vi med denne effektiviserigen å forme om til grønt- eller rekreasjonsområder, slik at de lokale innbyggerne får økt livskvalitet.
+
+[//]: # (VPF-11 slutt)
 
 [//]: # (VPF-1)
 ## Kommune og region
