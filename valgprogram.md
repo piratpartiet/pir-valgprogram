@@ -12,6 +12,19 @@ Piratpartiet vil
 * Benytte åpne, blokkjede­baserte avstemningsverktøy til å kjøre rådgivende avstemninger om aktuelle saker
 [//]: # (VPF-5 slutt)
 
+
+[//]: # (VPF-8)
+### Nettnøytralitet
+
+Prinsippet om nettnøytralitet må forsterkes ved lov i alle land for å sikre sterke incentiver for investeringer, rettferdig konkurranse og likebehandling av alle i det digitale rommet.
+
+Vi anser informasjonsfrihet som en universell menneskerettighet, og nettnøytralitet et nødvendig middel for det.
+
+Alle må være i stand til å ha tilgang til en internettilkopling som ikke diskriminerer noen som helst tjenester eller konkurrenter. Tiltak for trafikkstyring skal bare tillates i særlige tilfeller, drives på en klar og gjennomsiktig måte, og bare ha tekniske begrunnelser.
+
+Ikke-diskriminerende tilgang til Internett må gjelde likt over hele verden. Vi avviser tiltak fra teleselskapene som truer fri adgang.
+[//]: # (VPF-8 slutt)
+
 [//]: # (VPF-4)
 ## Finans
 
