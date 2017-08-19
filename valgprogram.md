@@ -37,6 +37,11 @@ Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammenslÃ
 [//]: # (VPF-3)
 ## Helse og omsorg
 
+[//]: # (VPF-6)
+### Tilgang til medisin
+
+Vi anser universell tilgang til medisiner og medisinsk behandling som en menneskerett. 
+
 ### Ruspolitikk
 
 Piratpartiet stiller seg positiv til Ã¥ endre rusmiddelpolitikken fra justispolitisk til helsepolitisk, og derunder generell avkriminalisering av besittelse og bruk av brukerdoser.
