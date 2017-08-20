@@ -37,6 +37,9 @@ Piratpartiet vil
 * Forsvare retten til bruk av anonyme betalingstjenester, kontanter såvel som digitale systemer
 * Være åpne for nye, desentraliserte, løsninger for notarvirksomhet, smarte kontrakter og finans
 [//]: # (VPF-4 slutt)
+[//]: # (KPF-3)
+* Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
+[//]: # (KPF-3 slutt)
 
 [//]: # (VPF-9)
 ### Borgerlønn
