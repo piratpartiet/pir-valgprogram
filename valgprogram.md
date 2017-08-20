@@ -180,6 +180,12 @@ Pirater ønsker en rettferdig og balansert opphavsrett.
 Samfunnet må sikre helhetlig åpenhet, rettferdige deltakerrettigheter for sine medlemmer og mer rettferdige avtalevilkår for kunstnere.
 [//]: # (VPF-7 slutt)
 
+[//]: # (VPF-21)
+### Skolebibliotek
+
+Skolebibliotek må styrkes slik at elevene er sikret ressurser og trygge rammer i utviklingen av lære- og leselyst og digital kompetanse. Opplæringsloven må utvides til å spesifisere at skolebibliotekene skal ha kvalifisert personell tilstede i skoletiden, oppdaterte boksamlinger, og teknologisk utstyr til å utvikle digitale ferdigheter. Det skal være et mål at det er et tett samarbeid mellom lærere og skolebibliotekarer.
+[//]: # (VPF-21 slutt)
+
 ### Idrett
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
