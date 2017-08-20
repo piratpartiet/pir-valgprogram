@@ -109,6 +109,20 @@ Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
 Dagens bompengeordning bør avvikles, og det bør utredes alternative måter å finansiere veibygging.
 [//]: # (VPF-16, i konflikt med VPF-17,  slutt)
 
+[//]: # (VPF-17, i konflikt med VPF-15 og VPF-16)
+### Allemannsretten
+
+Piratpartiet vil grunnlovsfeste allemannsretten.
+
+Retten til fri ferdsel i utmark er for viktig for hver av oss til at den kan tillates begrenset med skatt og avgift. Allemannsretten er et gratis fellesgode og en del av vår kulturarv. Den gir deg rett til å bruke utmarka. Piratpartiet vil utvide bruksområdet for allemannsretten til også å omfatte gratis ferdsel og opphold på offentlig vei og på Internett. Hverken utmark, veier eller internettet skal beskattes tyngre enn det som er nødvendig for å forvalte disse områdene forsvarlig.
+
+Piratpartiet tar sterkt avstand fra alle former for unødvendig skatt og avgift som begrenser bruken av utmark, vei og internett til bare å gjelde de rikeste.
+
+### Bompenger
+
+Piratpartiet vil avskaffe all bompengeinnkreving i Norge. Piratpartiet vil i stedet finansiere veinett og kollektivtrafikk i henhold til Nasjonal Transportplan ved diverse innsparinger andre steder i statsbudsjettet.
+[//]: # (VPF-17, i konflikt med VPF-15 og VPF-16, slutt)
+
 [//]: # (VPF-13)
 ### Fjern elbil-privilegiene
 Piratpartiet vil fjerne Elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
