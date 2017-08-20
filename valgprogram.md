@@ -183,3 +183,11 @@ Samfunnet må sikre helhetlig åpenhet, rettferdige deltakerrettigheter for sine
 ### Idrett
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
+
+[//]: # (VPF-18)
+## Forsvar
+
+### Heimevernet
+
+Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV).
+[//]: # (VPF-18 slutt)
