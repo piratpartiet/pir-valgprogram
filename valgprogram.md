@@ -101,6 +101,14 @@ Den digitale revolusjonen i det offentlige rom er fullt i gang, og klimaendringe
 Noen arealer som i dag brukes til trafikk ønsker vi med denne effektiviserigen å forme om til grønt- eller rekreasjonsområder, slik at de lokale innbyggerne får økt livskvalitet.
 [//]: # (VPF-11 slutt)
 
+[//]: # (VPF-15, i konflikt med VPF-17)
+Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
+[//]: # (VPF-15, i konflikt med VPF-17,  slutt)
+
+[//]: # (VPF-16, i konflikt med VPF-17)
+Dagens bompengeordning bør avvikles, og det bør utredes alternative måter å finansiere veibygging.
+[//]: # (VPF-16, i konflikt med VPF-17,  slutt)
+
 [//]: # (VPF-13)
 ### Fjern elbil-privilegiene
 Piratpartiet vil fjerne Elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
