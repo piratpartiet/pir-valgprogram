@@ -244,6 +244,12 @@ Skolebibliotek må styrkes slik at elevene er sikret ressurser og trygge rammer 
 
 Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
 
+[//]: # (VPF-33)
+## Miljøvern
+
+Piratpartiet er for en bærekraftig natur- og ressursforvaltning med vekt på rent vann og ren luft for alle samt et styrket vern av uberørt natur og artsmangfoldet.
+[//]: # (VPF-33 slutt)
+
 [//]: # (VPF-18)
 ## Forsvar
 
