@@ -125,11 +125,14 @@ Piratpartiet vil avskaffe all bompengeinnkreving i Norge. Piratpartiet vil i ste
 
 [//]: # (VPF-13)
 ### Fjern elbil-privilegiene
+
 Piratpartiet vil fjerne Elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
 [//]: # (VPF-13 slutt)
 
 [//]: # (VPF-1)
 ## Kommune og region
+
+### Kommunesammenslåing
 
 Piratpartiet mener at kommunesammenslåing skal være frivillig og støttet av innbyggerne i alle de involverte kommunene med folkeavstemming. Tilsvarende med fylkessammenslåing. I forkant av slike avstemninger skal innbyggerne være saklig informerte om fordeler og ulemper både med sammenslåing og ingen sammenslåing.
 
@@ -137,6 +140,13 @@ Piratpartiet overlater til hvert enkelt lokallag å anbefale sammenslåing og/el
 
 Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammenslåing. Faktorer som er relevante for vurdering av sammenslåing er lokale forhold som boligmarked, boligmønster, arbeidsmarked, eksisterende infrastruktur og behov for ny infrastruktur. Dette må samles som ett sammenslått hensyn som ses opp mot behovet for å bygge en kommuneadministrasjon og kommunaldrift som er stor nok til å gi et fullverdig kommunalt tilbud til alle kommunens innbyggere.
 [//]: # (VPF-1 slutt)
+
+[//]: # (VPF-22)
+### Bolig- og utbyggingspolitikk
+
+#### Husbåt
+Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
+[//]: # (VPF-22 slutt)
 
 [//]: # (VPF-3)
 ## Helse og omsorg
