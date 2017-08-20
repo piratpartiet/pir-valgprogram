@@ -129,6 +129,11 @@ Piratpartiet vil avskaffe all bompengeinnkreving i Norge. Piratpartiet vil i ste
 Piratpartiet vil fjerne Elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
 [//]: # (VPF-13 slutt)
 
+[//]: # (VPF-24)
+### Kollektivtransport
+Statlig drevet kollektivtransport ønsker Piratpartiet å gjøre lovfestet billigere enn å benytte bil. På sikt ønsker vi å gjøre kollektivtransport gratis i den forstand at vi betaler for det via skattemidlene.
+[//]: # (VPF-24 slutt)
+
 [//]: # (VPF-1)
 ## Kommune og region
 
