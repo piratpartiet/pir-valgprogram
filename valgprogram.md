@@ -148,6 +148,12 @@ Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammensl�
 Piratpartiet ønsker å tillate huslån til båt, for ikke alle vil ha fast eiendom. Ved å gjøre det lettere å bo på sjøen, ønsker vi å bidra med å løse problemer med boligmangel.
 [//]: # (VPF-22 slutt)
 
+[//]: # (VPF-23)
+#### Minihus
+
+Gjør det lovlig å bo i minihus og å bygge dem selv, så lenge de ikke er koblet til strømnettet og kloakk. Et hus på en henger eller «offgrid» skal det være lov å bygge og bo i, selv opp til 40 kvadratmeter, uten å søke stat eller kommune. Dette forutsetter at man har bruksrett eller tillatelse fra grunneier og at huset er mobilt i den grad at det kan transporteres langs vei eller vann uten permanente miljøkonsekvenser.
+[//]: # (VPF-23 slutt)
+
 [//]: # (VPF-3)
 ## Helse og omsorg
 [//]: # (VPF-3 slutt)
