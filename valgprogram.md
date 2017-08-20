@@ -168,7 +168,6 @@ Tannhelse må inn på lik linje med resten av kroppen i den offentlig egenandels
 
 Piratpartiet stiller seg positiv til å endre rusmiddelpolitikken fra justispolitisk til helsepolitisk, og derunder generell avkriminalisering av besittelse og bruk av brukerdoser.
 
-
 ### Velferd og menneskerettigheter
 
 [//]: # (VPF-29)
@@ -220,15 +219,23 @@ Samfunnet må sikre helhetlig åpenhet, rettferdige deltakerrettigheter for sine
 Piratpartiet mener at kringkastingsavgiften, som belaster ferdig beskattede midler, skal erstattes med finansiering gjennom statsbudsjettet.
 [//]: # (VPF-26 slutt)
 
+### Idrett
+
+Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
+
+## Utdanning
+
+[//]: # (VPF-28)
+### Grunnskolen
+
+Piratpartiet ønsker å legge religion inn under historiefaget. De ekstra undervisningstimene ønsker vi å bruke til å lære barn og ungdom om privatøkonomi og entreprenørskap. Det inkluderer hvordan man fyller ut en selvangivelse, starter et firma og investerer i aksjemarkedet.
+[//]: # (VPF-28 slutt)
+
 [//]: # (VPF-21)
 ### Skolebibliotek
 
 Skolebibliotek må styrkes slik at elevene er sikret ressurser og trygge rammer i utviklingen av lære- og leselyst og digital kompetanse. Opplæringsloven må utvides til å spesifisere at skolebibliotekene skal ha kvalifisert personell tilstede i skoletiden, oppdaterte boksamlinger, og teknologisk utstyr til å utvikle digitale ferdigheter. Det skal være et mål at det er et tett samarbeid mellom lærere og skolebibliotekarer.
 [//]: # (VPF-21 slutt)
-
-### Idrett
-
-Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anlegg når lokalbefolkningen ønsker det.
 
 [//]: # (VPF-33)
 ## Miljøvern
