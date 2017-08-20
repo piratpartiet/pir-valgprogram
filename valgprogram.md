@@ -104,31 +104,13 @@ Den digitale revolusjonen i det offentlige rom er fullt i gang, og klimaendringe
 Noen arealer som i dag brukes til trafikk ønsker vi med denne effektiviserigen å forme om til grønt- eller rekreasjonsområder, slik at de lokale innbyggerne får økt livskvalitet.
 [//]: # (VPF-11 slutt)
 
-[//]: # (VPF-15, i konflikt med VPF-17)
+[//]: # (VPF-15)
 Allemannsretten bør grunnlovsfestes, og også utvides til å gjelde Internett.
-[//]: # (VPF-15, i konflikt med VPF-17,  slutt)
+[//]: # (VPF-15 slutt)
 
-[//]: # (VPF-16, i konflikt med VPF-17)
+[//]: # (VPF-16 VPF-17)
 Dagens bompengeordning bør avvikles, og det bør utredes alternative måter å finansiere veibygging.
-[//]: # (VPF-16, i konflikt med VPF-17,  slutt)
-
-[//]: # (VPF-17, i konflikt med VPF-15 og VPF-16)
-### Allemannsretten
-
-Piratpartiet vil grunnlovsfeste allemannsretten.
-
-Retten til fri ferdsel i utmark er for viktig for hver av oss til at den kan tillates begrenset med skatt og avgift. Allemannsretten er et gratis fellesgode og en del av vår kulturarv. Den gir deg rett til å bruke utmarka. Piratpartiet vil utvide bruksområdet for allemannsretten til også å omfatte gratis ferdsel og opphold på offentlig vei og på Internett. Hverken utmark, veier eller internettet skal beskattes tyngre enn det som er nødvendig for å forvalte disse områdene forsvarlig.
-
-Piratpartiet tar sterkt avstand fra alle former for unødvendig skatt og avgift som begrenser bruken av utmark, vei og internett til bare å gjelde de rikeste.
-
-### Bompenger
-
-Piratpartiet vil avskaffe all bompengeinnkreving i Norge. Piratpartiet vil i stedet finansiere veinett og kollektivtrafikk i henhold til Nasjonal Transportplan ved diverse innsparinger andre steder i statsbudsjettet.
-[//]: # (VPF-17, i konflikt med VPF-15 og VPF-16, slutt)
-
-[//]: # (VPF-25, mulig konflikt med VPF-16 og VPF-17)
-Bomringer rundt byer aksepteres om disse blir øremerket til å finansiere kollektivtransport. Biler med minst to passasjerer (pluss sjåfør) og motorsykler skal få passere gratis. Dette forutsetter gratis parkeringsplasser på utsiden av byene slik at man kan parkere med bil der og ta gratis kollektivtransport inn til arbeid.
-[//]: # (VPF-25, mulig konflikt med VPF-16 og VPF-17, slutt)
+[//]: # (VPF-16 slutt)
 
 [//]: # (VPF-13)
 ### Fjern elbil-privilegiene
@@ -233,11 +215,12 @@ Pirater ønsker en rettferdig og balansert opphavsrett.
 Samfunnet må sikre helhetlig åpenhet, rettferdige deltakerrettigheter for sine medlemmer og mer rettferdige avtalevilkår for kunstnere.
 [//]: # (VPF-7 slutt)
 
-[//]: # (VPF-21)
-
+[//]: # (VPF-26)
 ### Medieavgift
 Piratpartiet mener at kringkastingsavgiften, som belaster ferdig beskattede midler, skal erstattes med finansiering gjennom statsbudsjettet.
+[//]: # (VPF-26 slutt)
 
+[//]: # (VPF-21)
 ### Skolebibliotek
 
 Skolebibliotek må styrkes slik at elevene er sikret ressurser og trygge rammer i utviklingen av lære- og leselyst og digital kompetanse. Opplæringsloven må utvides til å spesifisere at skolebibliotekene skal ha kvalifisert personell tilstede i skoletiden, oppdaterte boksamlinger, og teknologisk utstyr til å utvikle digitale ferdigheter. Det skal være et mål at det er et tett samarbeid mellom lærere og skolebibliotekarer.
