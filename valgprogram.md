@@ -126,6 +126,12 @@ Antallet innbyggere i en eller flere kommuner er ingen begrunnelse for sammensl�
 Vi anser universell tilgang til medisiner og medisinsk behandling som en menneskerett. 
 [//]: # (VPF-6 slutt)
 
+[//]: # (VPF-14)
+### Tannhelse
+
+Tannhelse m책 inn p책 lik linje med resten av kroppen i den offentlig egenandelsordningen. D책rlige tenner er i dag et fattigdomsproblem, og en ordning der tenner blir behandlet p책 lik linje med resten av kroppen vil avhjelpe dette.
+[//]: # (VPF-14 slutt)
+
 ### Ruspolitikk
 
 Piratpartiet stiller seg positiv til 책 endre rusmiddelpolitikken fra justispolitisk til helsepolitisk, og derunder generell avkriminalisering av besittelse og bruk av brukerdoser.
