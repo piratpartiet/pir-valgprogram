@@ -123,6 +123,10 @@ Piratpartiet tar sterkt avstand fra alle former for unødvendig skatt og avgift 
 Piratpartiet vil avskaffe all bompengeinnkreving i Norge. Piratpartiet vil i stedet finansiere veinett og kollektivtrafikk i henhold til Nasjonal Transportplan ved diverse innsparinger andre steder i statsbudsjettet.
 [//]: # (VPF-17, i konflikt med VPF-15 og VPF-16, slutt)
 
+[//]: # (VPF-25, mulig konflikt med VPF-16 og VPF-17)
+Bomringer rundt byer aksepteres om disse blir øremerket til å finansiere kollektivtransport. Biler med minst to passasjerer (pluss sjåfør) og motorsykler skal få passere gratis. Dette forutsetter gratis parkeringsplasser på utsiden av byene slik at man kan parkere med bil der og ta gratis kollektivtransport inn til arbeid.
+[//]: # (VPF-25, mulig konflikt med VPF-16 og VPF-17, slutt)
+
 [//]: # (VPF-13)
 ### Fjern elbil-privilegiene
 
