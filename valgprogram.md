@@ -99,8 +99,12 @@ Piratpartiet er for internasjonalt samarbeid mellom mennesker. Internett med sin
 Den digitale revolusjonen i det offentlige rom er fullt i gang, og klimaendringene krever ny miljøvennlig mobilitet. Infrastrukturen i våre byer, tettsteder og bygder og måtene som vi reiser mellom disse på, vil endre seg stort i fremtiden. Piratpartiet ønsker å legge til rette for effektivisering av kollektivtransport og for selvstyrte, og med det også førerløse drosjer og minibusser.
 
 Noen arealer som i dag brukes til trafikk ønsker vi med denne effektiviserigen å forme om til grønt- eller rekreasjonsområder, slik at de lokale innbyggerne får økt livskvalitet.
-
 [//]: # (VPF-11 slutt)
+
+[//]: # (VPF-13)
+### Fjern elbil-privilegiene
+Piratpartiet vil fjerne Elbil-privilegiene (fordeler og subsidier). Piratpartiet vil gjøre det dyrere og mer tungvint å bruke fossilbil slik at elbiler i stadig større grad vil erstatte fossilbiler, uten at den totale bilbruken går opp. Overskuddet fra bil- og veiavgifter skal brukes til å utvikle og bygge opp kollektivtransport.
+[//]: # (VPF-13 slutt)
 
 [//]: # (VPF-1)
 ## Kommune og region
