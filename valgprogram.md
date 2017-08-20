@@ -191,3 +191,11 @@ Piratpartiet ønsker å legge til rette for utbygging av idrettshaller og -anleg
 
 Piratpartiet støtter kravet fra Norges Offisersforbund (NOF) om offentliggjøring av strukturstudien for Heimevernet (HV).
 [//]: # (VPF-18 slutt)
+
+[//]: # (VPF-19 slutt)
+Piratpartiet støtter kravet om granskning fra «Styrk Heimevernet».
+[//]: # (VPF-19 slutt)
+
+[//]: # (VPF-20 slutt)
+Piratpartiet støtter de fagmilitære kravene i FFI-rapporten om 56.000 HV-soldater og et nytt sjøheimevern.
+[//]: # (VPF-20 slutt)
