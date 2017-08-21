@@ -1,0 +1,1 @@
+pandoc -N --template=mytemplate.tex --variable mainfont="Merriweather" --variable sansfont="OpenSans" --variable monofont="FreeMono" --variable fontsize=8pt --variable version=201708 valgprogram.md --latex-engine=xelatex --toc -o valgprogram.pdf
