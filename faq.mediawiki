@@ -6,7 +6,7 @@ Piratpartiet arbeider for åpenhet, innsyn og mer demokrati. Målet er at Norge 
 
 == Hvorfor heter dere Piratpartiet? ==
 
-Det var en gang … for ikke så veldig lenge siden, faktisk … en bransje som drev med å selge musikk fra butikkhyller, innpakket i plastikk. Det var den eneste måten man kunne få tak i musikk på - selv da de innførte netthandel, måtte man vente i mange dager på at plasten skulle kommer frem i postkassa.
+Det var en gang … for ikke så veldig lenge siden, faktisk … en bransje som drev med å selge musikk fra butikkhyller, innpakket i plastikk. Det var den eneste måten man kunne få tak i musikk på - selv da de innførte netthandel, måtte man vente i mange dager på at plasten skulle komme frem i postkassa.
 
 “Dette er jo helt idiotisk”, sa vi. Man kunne jo få tak i musikken mye raskere ved å dele den over internett, og det må jo være greiere å betale direkte til musikerene. Bare en liten andel av det man betalte for butikkmusikken endte opp hos musikerene.
 
@@ -24,9 +24,9 @@ På lang sikt ønsker vi å få på plass noe breddedemokratisk system. De av ka
 
 == Det er vel ikke noe vits i å stemme på dere, dere får vel uansett ingen kandidat inn? ==
 
-Vi er foreløbig et ganske lite parti, og vi må vel være ærlige og si at vi ikke tror på å få inn noen kandidat i år. En stemme på oss er allikevel ikke bortkastet;
+Vi er foreløbig et ganske lite parti, men selv om vi ikke skulle få inn en kandidat er en stemme på oss ikke bortkastet;
 
-Når de store partiene ser at de mister stemmer til “andre”, så er det sannsynlig at de går i seg selv og vurderer muligheten for å endre kurs. Det er viktig å ha en stemme i samfunnsdebatten, selv om vi ikke har en stemme på Stortinget - Vi ser allerede at mange av våre saker er blitt adoptert av de større partiene.
+Når de store partiene ser at de mister stemmer til “andre”, så er det sannsynlig at de går i seg selv og vurderer muligheten for å endre kurs. Det er viktig å ha en stemme i samfunnsdebatten, selv om vi ikke har en stemme på Stortinget - vi ser allerede at noen av saker våre er blitt adoptert av de større partiene.
 
 Valget avgjør ikke bare hvem som skal sitte på tinget - partistøtten for de neste fire årene er proposjonalt avhengig av hvor mange stemmer vi får - og det er snakk om forholdsvis mye penger.
 
@@ -42,9 +42,11 @@ Det vi ser er at lovverket stadig endrer seg, men det er kun i én retning - sta
 
 Samtidig er det mange verk som kunne hatt en langt høyere reell verdi dersom det hadde vært lettvint tilgjengelig. Det er blitt sagt at mye god gammel norsk kultur er på vei rett i glemmeboka fordi det ikke er lettvint tilgjengelig på internett; det hadde vært lettvint tilgjengelig dersom det hadde vært fullt lovlig å dele det. Mange verk blir en etablert del av kulturen vår; det bør da ansees for å være en del av allmenningen vår, ting som skal kunne deles uten begrensninger.
 
+Ved utvikling av programvare har frie lisenser vist seg å fungere veldig bra; det lages mye god programvare uten at utviklerene har behov for å tjene penger på salg av eksemplarer eller lisenser.  Vi ønsker at all produksjon av kunskap og kultur som skjer helt eller delvis med offentlig støtte skal utgis med åpne lisenser.
+
 == Dere er mot overvåkning, men overvåkning er vel bare bra?  Hvordan skal vi ellers fakke terrorister og pedofile? ==
 
-Masseovervåking vil ikke hjelpe noe særlig for å fange alvorlig kriminelle. Ved planlagt kriminalitet er det lettvint å snike seg unna overvåkingen, og det er svært få kriminalsaker hvor man har behov for å sjekke opp bevegelser og kommunikasjon til en mistenkt for lang tid tilbake siden.  Masseovervåking koster penger, og vi tror disse pengene hadde vært bedre brukt dersom de hadde blitt bevilget direkte til politiet, og brukt på klassisk etterforskning.  Vi er helt for at politiet skal kunne bruke alle verktøy i skuffen for å spane på enkeltindivider når det er skjellig grunn til mistanke - men masseovervåking er vi veldig i mot.
+Masseovervåking vil ikke hjelpe noe særlig for å fange alvorlig kriminelle. Ved planlagt kriminalitet er det lettvnint å snike seg unna overvåkingen, og det er svært få kriminalsaker hvor man har behov for å sjekke opp bevegelser og kommunikasjon til en mistenkt for lang tid tilbake siden.  Masseovervåking koster penger, og vi tror disse pengene hadde vært bedre brukt dersom de hadde blitt bevilget direkte til politiet, og brukt på klassisk etterforskning.  Vi er helt for at politiet skal kunne bruke alle verktøy i skuffen for å spane på enkeltindivider når det er skjellig grunn til mistanke - men masseovervåking er vi veldig i mot.
 
 Potensialet for misbruk av "Big Data" er stort; databasen kan og vil brukes til andre formål enn hva det er tiltenkt - både av myndigheter, politi og privatpersoner som på ulikt vis får tilgang til databasen.  Det er misforstått at vi ikke har noe å skjule.  Vi har alle noe å skjule; små hemmeligheter som vi helst ikke vil at naboer, venner, familie eller ektefelle skal vite av.
 
