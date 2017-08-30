@@ -4,6 +4,8 @@ addons:
     - pandoc
     - texlive-full
     - lmodern
-    - typecatcher
+
+before_script:
+  - curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install_debian.sh | sh
 
 script: (cd $TRAVIS_BUILD_DIR/build; ./convert2pdf.sh)
