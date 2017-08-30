@@ -4,8 +4,11 @@ addons:
     - pandoc
     - texlive-full
     - lmodern
+    - fontconfig
 
 before_script:
-  - curl https://raw.githubusercontent.com/qrpike/Web-Font-Load/master/install_debian.sh | sh
+  - mkdir ~/.fonts
+  - cd ~/.fonts && wget https://github.com/google/fonts/archive/master.zip && unzip master.zip
+  - fc-cache -fv
 
 script: (cd $TRAVIS_BUILD_DIR/build; ./convert2pdf.sh)
