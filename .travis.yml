@@ -4,10 +4,6 @@ addons:
     - pandoc
     - texlive-full
     - lmodern
-
-before_script:
-  - cd && wget https://raw.githubusercontent.com/hotice/webupd8/master/install-google-fonts
-  - chmod +x install-google-fonts
-  - ./install-google-fonts
+    - typecatcher
 
 script: (cd $TRAVIS_BUILD_DIR/build; ./convert2pdf.sh)
