@@ -11,4 +11,5 @@ before_script:
 
 script:
   - cd ./build
-  - ./convert2pdf.sh
+  - ls -la
+  - sh convert2pdf.sh
