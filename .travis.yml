@@ -3,7 +3,10 @@ addons:
     packages:
     - pandoc
     - texlive-xetex
-    - fonts-google-opensans
-    - fonts-google-merriweather
-    - ttf-freefont
+
+before_script:
+  - cd && wget https://raw.githubusercontent.com/hotice/webupd8/master/install-google-fonts
+  - chmod +x install-google-fonts
+  - ./install-google-fonts
+
 script: pushd ./build && convert2pdf.sh || popd
