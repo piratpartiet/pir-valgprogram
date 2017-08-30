@@ -3,8 +3,8 @@ addons:
     packages:
     - pandoc
     - texlive-xetex
+    - texlive-latex-recommended
     - lmodern
-    - extsizes
 
 before_script:
   - cd && wget https://raw.githubusercontent.com/hotice/webupd8/master/install-google-fonts
