@@ -2,8 +2,7 @@ addons:
   apt:
     packages:
     - pandoc
-    - texlive-xetex
-    - texlive-latex-recommended
+    - texlive-full
     - lmodern
 
 before_script:
