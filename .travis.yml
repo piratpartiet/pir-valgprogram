@@ -2,7 +2,7 @@ addons:
   apt:
     packages:
     - pandoc
-    - xelatex
+    - texlive-xetex
     - fonts-google-opensans
     - fonts-google-merriweather
     - ttf-freefont
