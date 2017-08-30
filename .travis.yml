@@ -9,4 +9,6 @@ before_script:
   - chmod +x install-google-fonts
   - ./install-google-fonts
 
-script: pushd ./build && ./convert2pdf.sh && popd
+script:
+  - cd ./build
+  - ./convert2pdf.sh
