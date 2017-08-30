@@ -1,0 +1,9 @@
+addons:
+  apt:
+    packages:
+    - pandoc
+    - xelatex
+    - fonts-google-opensans
+    - fonts-google-merriweather
+    - ttf-freefont
+script: pushd ./build && convert2pdf.sh || popd
