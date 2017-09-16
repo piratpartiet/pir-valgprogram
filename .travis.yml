@@ -12,6 +12,9 @@ addons:
 
 before_script:
   - npm install google-font-installer
-  - gfi install merriweather
+  - gfi download "Merriweather"
+  - gfi install "Merriweather"
+  - gfi download "Open Sans"
+  - gfi install "Open Sans"
 
 script: (cd $TRAVIS_BUILD_DIR/build; ./convert2pdf.sh)
