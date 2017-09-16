@@ -11,10 +11,11 @@ addons:
     - fontconfig
 
 before_script:
+  - mkdir $TRAVIS_BUILD_DIR/fonts
   - npm install https://github.com/asbjornu/google-font-installer.git
-  - gfi download "Merriweather"
+  - gfi download "Merriweather" -d $TRAVIS_BUILD_DIR/fonts/
   - gfi install "Merriweather"
-  - gfi download "Open Sans"
+  - gfi download "Open Sans" -d $TRAVIS_BUILD_DIR/fonts/
   - gfi install "Open Sans"
 
 script: (cd $TRAVIS_BUILD_DIR/build; ./convert2pdf.sh)
