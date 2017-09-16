@@ -11,7 +11,7 @@ addons:
     - fontconfig
 
 before_script:
-  - npm install google-font-installer
+  - npm install git+ssh://git@github.com/asbjornu/google-font-installer.git
   - gfi download "Merriweather"
   - gfi install "Merriweather"
   - gfi download "Open Sans"
