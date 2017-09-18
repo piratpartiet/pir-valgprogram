@@ -19,16 +19,16 @@ before_script:
   - gfi install "Open Sans"
 
 script:
-  - pandoc -N                                   \
-           --template=./piratpartiet.tex        \
-           --variable mainfont="Merriweather"   \
-           --variable sansfont="OpenSans"       \
-           --variable monofont="FreeMono"       \
-           --variable fontsize=8pt              \
-           --variable version=201708            \
-           valgprogram.md                       \
-           --latex-engine=xelatex               \
-           --toc                                \
+  - pandoc -N                                                       \
+           --template=./build/piratpartiet.tex                      \
+           --variable mainfont="./fonts/Merriweather-regular.ttf"   \
+           --variable sansfont="./fonts/OpenSans-regular.ttf"       \
+           --variable monofont="./fonts/DroidSansMono-regular.ttf"  \
+           --variable fontsize=8pt                                  \
+           --variable version=201708                                \
+           valgprogram.md                                           \
+           --latex-engine=xelatex                                   \
+           --toc                                                    \
            -o valgprogram.pdf
   - pandoc -N --template=./piratpartiet.tex --variable mainfont="Merriweather" --variable sansfont="OpenSans" --variable monofont="FreeMono" --variable fontsize=8pt --variable version=201708 faq.md --latex-engine=xelatex --toc -o faq.pdf
   - pandoc -N --template=./piratpartiet.tex --variable mainfont="Merriweather" --variable sansfont="OpenSans" --variable monofont="FreeMono" --variable fontsize=17pt --variable version=201708 valgprogram.md --latex-engine=xelatex --toc -o valgprogram-stor.pdf
