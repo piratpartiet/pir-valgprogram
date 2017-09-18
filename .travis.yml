@@ -20,7 +20,7 @@ before_script:
 
 script:
   - pandoc -N                                                       \
-           --template=$TRAVIS_BUILD_DIR/build/piratpartiet.tex                      \
+           --template="$TRAVIS_BUILD_DIR/build/piratpartiet.tex"                      \
            --variable mainfont="$TRAVIS_BUILD_DIR/fonts/Merriweather-regular.ttf"   \
            --variable sansfont="$TRAVIS_BUILD_DIR/fonts/OpenSans-regular.ttf"       \
            --variable monofont="$TRAVIS_BUILD_DIR/fonts/DroidSansMono-regular.ttf"  \
