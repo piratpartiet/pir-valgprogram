@@ -19,7 +19,7 @@ before_script:
   - gfi install "Open Sans"
 
 script:
-  - [ -e $TRAVIS_BUILD_DIR/build/piratpartiet.tex ] && echo "piratpartiet.tex found" || echo "piratpartiet.tex not found"
+  -| [ -e $TRAVIS_BUILD_DIR/build/piratpartiet.tex ] && echo "piratpartiet.tex found" || echo "piratpartiet.tex not found"
   - pandoc -N                                                       \
            --template="$TRAVIS_BUILD_DIR/build/piratpartiet.tex"                      \
            --variable mainfont="$TRAVIS_BUILD_DIR/fonts/Merriweather-regular.ttf"   \
