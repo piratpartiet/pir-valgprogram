@@ -1,2 +1,4 @@
 # Valgprogram for Piratpartiet Norge
-Dette er de offisielle valgprogram-filene for Piratpartiet Norge.
+
+Dette er kodebrønnen (repository) for [valgprogrammet](valgprogram.md) til
+Piratpartiet Norge.
